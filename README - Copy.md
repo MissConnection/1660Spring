@@ -8,3 +8,4 @@ little bit of snow and managing maya
 =======
 Sunny today
 >>>>>>> main
+Trying to get maya to work watched old vidoes
